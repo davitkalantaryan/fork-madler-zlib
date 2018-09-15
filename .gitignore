@@ -24,3 +24,15 @@
 /configure.log
 
 .DS_Store
+
+/original/example
+/original/example64
+/original/examplesh
+/original/libz.so*
+/original/minigzip
+/original/minigzip64
+/original/minigzipsh
+/original/zlib.pc
+original/configure.log
+
+/original/.DS_Store
